@@ -1,0 +1,123 @@
+.footerRow{
+    margin: 50px 0px 0px 0px !important;
+    background-color: rgb(248, 244, 244);
+    
+   color: black !important;
+}
+.footerListButton{
+    cursor: pointer;
+    color:black !important;
+    border:none;
+    text-align: center;
+    background: transparent;
+    font-size: smaller;
+    line-height: 30px;
+    padding: 0px !important;
+}
+.footerListButtonxl{
+    text-decoration: none;
+}
+.footerListButtonxl:hover{
+    text-decoration: underline;
+}
+
+.footerinp{
+    background: transparent;
+    border: 1px solid black;
+    color: black !important;
+    width: 75%;
+    padding: 2px;
+    margin-top: 15px;
+    text-align: start;
+}
+.footerinp:hover{
+    background: transparent;
+    color: black
+}
+.footersendbtn{
+    
+    
+    background-color: red !important;
+    padding: 5px;
+    margin: 10px 0;
+    color: white;
+    width: 150px;
+    border: 1px solid red;
+    opacity: 0.5;
+}
+.footersendbtn:hover{
+    opacity: 1;
+}
+
+.blu{
+    border: 1px solid blue !important;
+    
+}
+.blu:hover{
+    background-color: blue;  
+    color: white !important;
+}
+.green{
+    border: 1px solid green !important;
+    
+}
+.green:hover{
+    background-color: green;  
+    color: white !important;
+}
+.purple{
+    border: 1px solid purple !important;
+}
+.purple:hover{ 
+   background-color: purple;
+   color: white !important;
+}
+.red{
+    border: 1px solid red !important;
+}
+.red:hover{
+    background-color: red;
+    color: white !important;
+}
+
+.bluexl{
+    
+    outline: none !important;
+}
+.bluexl:hover{
+    border-bottom: 2px solid blue;
+    
+}
+.greenxl{
+    text-decoration: none;
+}
+.greenxl:hover{
+    border-bottom: 2px solid green !important
+}
+.purplexl{
+    text-decoration: none;
+}
+.purplexl:hover{
+    border-bottom: 2px solid purple !important
+}
+.redxl{
+    text-decoration: none;
+}
+.redxl:hover{
+    border-bottom: 2px solid red !important
+}
+.brownxl{
+    text-decoration: none;
+}
+.brownxl:hover{
+    border-bottom: 2px solid brown !important
+}
+.yellowxl{
+    text-decoration: none;
+}
+.yellowxl:hover{
+    border-bottom: 2px solid yellow !important
+}
+.greyxl{
+    background-color: rgb(240, 236, 236);
+}

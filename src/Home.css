@@ -1,0 +1,167 @@
+.buttonxl{
+    padding: 5px;
+    border-radius: 5px;
+    background: transparent;
+    font-size: 15px;
+    color: white;
+    width: 25%;
+    text-align: center;
+    height: fit-content;
+}
+.leaderSpan{
+     font-family: "OpenSans,Arial,sans-serif" !important;
+     
+}
+.w-100{
+    height: 632px !important;
+}
+.greytheme{
+    background-color:rgb(238, 237, 237)  ;
+    border-right: 0px !important;
+   
+}
+.whitetheme{
+    text-align: center !important;
+    padding: 15px 10px;
+   
+}
+.fontxl{
+    font-family: Montserrat,sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .05rem;
+    font-size: 0.9rem ;
+}
+.headerRow{
+    padding: 10px !important; 
+    border-bottom: 1px solid gray;
+    background-color: black;
+    color: white;  
+    width: auto !important;  
+}
+.signupButton{
+    border: 1px solid  #17a2b8;
+    color: #17a2b8 !important;
+}
+.loginButton{
+    margin-right: 22px;
+    border: 1px solid  #17a2b8 !important;
+    color: #17a2b8 !important; 
+}
+
+.header2{
+    background-color: #343a40!important;
+    border-bottom: 1px solid black;
+    position: sticky;
+    top:0px;
+    z-index: 50;
+    width: auto !important;
+    box-shadow: 12px 4px 7px #343a40;
+}
+.textc{
+    text-align: center;
+}
+
+.signupButton:hover {
+    background-color: #17a2b8 ;
+    color: white !important;
+    transition:  0.2s;
+}
+.loginButton:hover {
+    background-color: #17a2b8 !important;
+    color: white !important;
+     transition:  0.2s;
+}
+.textDecor{
+    text-decoration-line: underline;
+    font-size: 20px; 
+}
+.imgxl{
+    width: 100%;
+    height: fit-content;
+}
+.imgxl2{
+   
+    width: 190px;
+}
+
+.navbar-link{
+    color: white !important;
+}
+.container-fluid{
+    width: fit-content !important;
+}
+.form-control{
+    width: 70% !important;
+    margin-right: 5px;
+}
+.ml{
+    margin-left: 13% !important;
+}
+
+@media (max-width:770px){
+    .container-fluid {
+        width: 100% !important;
+        
+    }
+    .buttonxl{
+        width: 70px ;
+    }
+    .loginButton{
+        margin-right: 10px;
+    }
+    .navbarxl{
+        padding-right: .3rem !important;
+        padding-left: .3rem !important;
+        font-size: 12px;
+    }
+    .w-100{
+        height: auto !important;
+    }
+    .btn{
+        padding: .1rem .6rem !important;
+    }
+    .form-control{
+        height: auto !important;
+        padding: .1rem .6rem !important;
+    }
+    .fontxl{
+        font-size: 0.5rem;
+        letter-spacing: 0.01rem;
+    }
+    .imgxl2{
+        width: 120px;
+    }
+    .imgxl{
+        height: auto;
+    }
+    .five00{
+        width: inherit;
+    }
+    .textDecor{
+        font-size: 10px;
+    }
+    .funnelimg{
+        width: inherit;
+    }
+    .bg-dark{
+        display: flex !important;
+        flex-direction: column !important;
+    }
+    .col-4{
+        padding: 0 8px !important;
+    }
+    .col-8{
+        padding: 0 8px !important;
+    }
+    .footerListButton{
+        font-size: small !important;
+    }
+    .ml{
+        margin-left: 3% !important;
+    }
+    .svg{
+        width: 80% !important;
+
+    }
+
+}

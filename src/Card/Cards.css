@@ -1,0 +1,12 @@
+.cardxl{
+    background-color: rgba(0, 123, 255, 0.47) !important;
+    color: black;
+    padding:10px 10px;
+    font-family: "OpenSans,Arial,sans-serif";
+    margin-left: 10px !important;
+    margin-top: 20px !important;
+   
+    display: inline-block;
+    
+     
+}
